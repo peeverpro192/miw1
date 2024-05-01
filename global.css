@@ -111,7 +111,7 @@ opacity: 0;
     animation: fadeRightToLeft 1s ease-out;
 }
 
-@keyframes slideIn {
+@keyframes slideIn2 {
     0% {
         transform: translateX(100%);
     }
