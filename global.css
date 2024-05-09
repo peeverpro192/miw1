@@ -74,11 +74,11 @@ opacity: 0;
 }
 
 .slide-up-2 {
-animation: slideIn 0.5s ease-in-out 5s forwards;
+animation: slideIn 0.5s ease-in-out 6s forwards;
 opacity: 0;
 }
 .slide-up-3 {
-animation: slideIn 0.5s ease-in-out 10s forwards;
+animation: slideIn 0.5s ease-in-out 8s forwards;
 opacity: 0;
 }
 
